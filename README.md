@@ -22,6 +22,28 @@ fish_config theme save "TokyoNight Moon"
 fish_config theme save "TokyoNight Day"
 ```
 
+## Previews
+
+<details>
+  <summary>TokyoNight Night</summary>
+  <img src="assets/tokyonight_night.png"/>
+</details>
+
+<details>
+  <summary>TokyoNight Storm</summary>
+  <img src="assets/tokyonight_storm.png"/>
+</details>
+
+<details>
+  <summary>TokyoNight Moon</summary>
+  <img src="assets/tokyonight_moon.png"/>
+</details>
+
+<details>
+  <summary>TokyoNight Day</summary>
+  <img src="assets/tokyonight_day.png"/>
+</details>
+
 ## Credits
 
 All colors were taken from [the original repo](https://github.com/folke/tokyonight.nvim/blob/main/extras/fish/).
